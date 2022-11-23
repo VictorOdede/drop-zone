@@ -20,5 +20,6 @@ This makes it easier for the user to send and receive packages.
 
 # Languages
 * JavaScript
+* NodeJS
 * HTML
 * CSS
